@@ -1,0 +1,17 @@
+{
+  "name": "datetime-mcp",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  }
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.5",
+    "zod": "3"
+  }
+}
